@@ -1,0 +1,19 @@
+.sub-container{
+    width: 30%;
+    text-align: left;
+    
+}
+.sub-container form{
+    padding: 40px 29px 28px 29px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px;
+}
+.container{
+    /* min-height: 100vh; */
+    display: flex;
+    justify-content: center;
+    
+}
+.font-5{
+    font-size: 20px;
+}

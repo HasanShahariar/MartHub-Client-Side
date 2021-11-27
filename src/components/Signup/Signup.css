@@ -1,0 +1,11 @@
+.signup-btn{
+    text-decoration: none;
+    color: white;
+}
+.signup-btn:hover{
+    text-decoration: none;
+    color: white;
+}
+.error-message{
+    color: red;
+}

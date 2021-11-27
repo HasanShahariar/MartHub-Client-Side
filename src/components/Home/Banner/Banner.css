@@ -1,0 +1,14 @@
+.img-size {
+  max-height: 420px;
+  max-width: 764px;
+}
+.radius {
+  border-radius: 20px;
+} 
+ img{
+  border-radius: 15px 15px 0 0;
+}
+.width{
+  width: 700px;
+  object-fit: cover;
+}
